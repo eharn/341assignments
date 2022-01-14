@@ -1,0 +1,33 @@
+After completing the assignment, be sure to push to Github. You do not have to worry about pushing to Heroku this lesson.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your source code repository (e.g., GitHub):
+https://github.com/eharn/341assignments
+
+3. Briefly list and describe the elements of the application that are functioning. 
+Localhost connection - server connection on port 3000
+successfull route on / and users
+creates new user using submit and Post method upon send click
+route and parse new user name and send it to the console
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+I'm not sure exactly what or if nodemon is working?!
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+It was really cool to see how everything loops through and works together. Seeing the new user name write out to the 
+console through the terminal was the coolest part. I've never been great with terminal work so it was neat to 
+see something start to click as I was working between my editor and my terminal.
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+I think just the robustness of the assignment was fairly overwhelming as I started working from what seemed like scratch.
+The video in connection with the written assignement could have been better formulated. I started and worked through the 
+written assignment before I did the videos and that was a grave mistake. I wish I would have known that sooner.
+
+7. Please select the category you feel best describes your assignment: 4
+ 
+   4 - Meets requirements
+ 
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+I worked for hours to get this figured and worked with my group. Each element required is working, but 
+I didn't go above and beyond. Nothing much added to make it really exciting.

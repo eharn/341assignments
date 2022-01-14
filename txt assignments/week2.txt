@@ -1,0 +1,25 @@
+1. Copy and paste the URL for your web application (e.g., Heroku):
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+https://github.com/eharn/lofty-cse341
+3. Briefly list and describe the elements of the application that are functioning. 
+This week there are quite a few sections to get the small program to work. 
+app.js spins up the server, then ta02.ejs and ta02.js get the javascript attatched to the 
+program to create actions in the localhost.
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+The stretch goals don't work yet. We worked on some ideas to get them to work, but went ahead and
+stepped them back to be sure my base code still worked. So it still just removes the first name
+on the list.
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+Seeing how node takes variables was my favorite part. It's similar to php in a way and I like
+seeing all the ways to make a program dynamic.
+6. If you could change this assignment to be more effective or helpful, what would you change?
+Just personal study. I'd try to go a little deeper before getting together with my group. It's so
+hard to get all the huge videos done before meeting and working.
+7. Please select the category you feel best describes your assignment:
+
+   4 - Meets requirements
+
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+I made sure to work until I met requirements, as long as it took.
