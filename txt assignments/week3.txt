@@ -1,0 +1,30 @@
+After completing the assignment, be sure to push to Github and Heroku.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your web application (e.g., Heroku):
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+https://github.com/eharn/341assignments
+3. Briefly list and describe the elements of the application that are functioning. 
+There is the controllers, models, and views. They are working together to create
+the experience for the viewer. The controller decides what the viewer sees, the model helps
+give the controller info for the views to display to the user. 
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+I really struggled getting everything to work, but it is now.
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+I liked seeing how you could split up everything into the MVC and still have a working 
+site. It blows my mind every time.
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+This assignment was just so packed and long that it was hard to follow and very frustrating! It needed
+be split up into two weeks.
+
+7. Please select the category you feel best describes your assignment:
+  
+   4 - Meets requirements
+
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+I watched the videos and did my best to code along and line up with what he was doing.
