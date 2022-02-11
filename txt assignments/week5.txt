@@ -1,0 +1,22 @@
+After completing the assignment, be sure to push to Github and Heroku.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your web application (e.g., Heroku):
+https://herokumaster341.herokuapp.com/
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+https://github.com/eharn/341heroku
+3. Briefly list and describe the elements of the application that are functioning. 
+the sign in and log in are logging to the database
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+everything seems to be funcitoning
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+How to get everthing to show up in the database
+6. If you could change this assignment to be more effective or helpful, what would you change?
+Have more time to understand it
+7. Please select the category you feel best describes your assignment:
+  
+   4 - Meets requirements
+
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+I worked with team members for hours and hours to get everything fuctioning.
